@@ -1,8 +1,5 @@
 package com.Pokke;
 
-import org.json.JSONException;
-import org.json.JSONObject;
-
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
 import javax.ws.rs.PathParam;
